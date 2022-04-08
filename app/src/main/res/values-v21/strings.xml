@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="motivational">The Hindu</string>
+    <string name="love">NDTV news</string>
+    <string name="cute_quotes">Times of india news</string>
+    <string name="serious">India tv news </string>
+    <string name="join_us">Join us</string>
+    <string name="share">Share</string>
+    <string name="funny">Funny</string>
+    <string name="home">Politics news</string>
+    <string name="l">Gadgets news</string>
+    <string name="help">Help</string>
+    <string name="life">Bbc news</string>
+    <string name="collections">Zee news</string>
+    <string name="favorites">Hindustan news</string>
+    <string name="d">Download Hindi version</string>
+    <string name="savage">Abp news</string>
+    <string name="success">Bollywood news</string>
+    <string name="sport">The indian Express</string>
+</resources>

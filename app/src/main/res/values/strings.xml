@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">News Blender</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ae">ca-app-pub-7479732637897937/9237959258</string>
+    <string name="ad9View">ca-app-pub-7479732637897937/6341167320</string>
+    <string name="ad10View">ca-app-pub-7479732637897937/9278677075</string>
+
+    <string name="ad11View">ca-app-pub-7479732637897937/4564572291</string>
+    <string name="ad12View">app-pub-7479732637897937/3331860608</string>
+    <string name="earn">ca-app-pub-7479732637897937/6365218050</string>
+    <string name="earn2">ca-app-pub-7479732637897937/8225094636</string>
+    <string name="earn3">ca-app-pub-7479732637897937/4485515395</string>
+    <string name="es">ca-app-pub-7479732637897937/7199308643</string>
+    <string name="earn4">ca-app-pub-7479732637897937/4760847567</string>
+    <string name="earn5">ca-app-pub-7479732637897937/9135206842</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7479732637897937/6812295837</string>
+
+    <string name="ae3">ca-app-pub-7479732637897937/1995083424</string>
+    <string name="ad93">ca-app-pub-7479732637897937/3910924033</string>
+    <string name="ad103">ca-app-pub-7479732637897937/9901617310</string>
+
+
+    <string name="earn13">ca-app-pub-7479732637897937/2569922207</string>
+    <string name="earn23">ca-app-pub-7479732637897937/7055962121</string>
+    <string name="earn33">ca-app-pub-7479732637897937/5814553718</string>
+
+
+
+
+
+    <string name="hello_blank_fragment2">hey, I need some programmer and graphic designer if you are intrested then mail me here anshul348567890123@gmail.com or we can have chat on instagram , our instagram id - hoogle.inc</string>
+
+
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="motivational">The Hindu news</string>
+    <string name="love">NDTV news</string>
+    <string name="cute_quotes">Times of india news</string>
+    <string name="serious">India tv news </string>
+    <string name="join_us">Join us</string>
+    <string name="share">Share</string>
+    <string name="funny">Funny</string>
+    <string name="home">Politics news</string>
+    <string name="l">Gadgets news</string>
+    <string name="help">Help</string>
+    <string name="life">Bbc news</string>
+    <string name="collections">Zee news</string>
+    <string name="favorites">Hindustan news</string>
+    <string name="d">Download Hindi version</string>
+    <string name="da">Download other Hoogle app</string>
+    <string name="savage">Abp news</string>
+    <string name="success">Bollywood news</string>
+    <string name="sport">The indian express</string>
+    <string name="positive">Cricket news</string>
+
+
+</resources>
